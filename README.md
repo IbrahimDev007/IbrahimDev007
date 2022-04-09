@@ -106,6 +106,3 @@ I am a React developer and passionate about programming. I am strongly committed
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
