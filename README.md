@@ -14,6 +14,3 @@
 <a href="https://fb.com/lethal.boy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lethal.boy" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimkhalil007&show_icons=true&locale=en" alt="ibrahimkhalil007" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimkhalil007&" alt="ibrahimkhalil007" /></p>
