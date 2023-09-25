@@ -1,7 +1,6 @@
 ## Hey 👋, I'm Ibrahim khalilullah!  
   
-
-I am a React developer and passionate about programming. I am strongly committed to being a solid software engineer and developing efficient software systems. I am interested in building excellent software that improves the lives of those around me.
+🚀 Passionate MERN developer building web applications with a focus on seamless user experiences. 💻 Check out my GitHub for a collection of projects showcasing my skills in full-stack development. 🌐 Let's collaborate and create innovative solutions together! 📫 Reach out for exciting opportunities and collaborations.
   
   
 
@@ -30,16 +29,15 @@ I am a React developer and passionate about programming. I am strongly committed
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on React  
-  
+🚀 Crafting exceptional web experiences with the MERN Stack - MongoDB, Express.js, React, and Node.js.
 
-- 🔎 Always looking for a challenging opportunity  
-  
+💼 Actively exploring new opportunities to collaborate on innovative web projects.
 
-- ❓ Ask me about anything related to  React.js and related technologies  
-  
+💬 Feel free to reach out for discussions or insights on MERN development and web technologies.
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+🌟 Enthusiastic about coding 24/7, even with the night shift mode permanently on.
+
+🌐 Let's connect and build the future of the web together! 
 
 
 </td><td valign="top" width="50%">
